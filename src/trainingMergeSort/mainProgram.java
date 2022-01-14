@@ -29,7 +29,6 @@ public class mainProgram {
 			// random number up to 1000000
 			numbers[i] = rand.nextInt(1000000);
 		}
-		;
 
 		System.out.println("Before");
 		arrPrint(numbers);
